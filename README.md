@@ -14,6 +14,7 @@ Refer to the [documentation on how to use d3.geomap](http://d3-geomap.github.io/
     $ git clone https://github.com/yaph/d3-geomap.git
     $ cd d3-geomap
     $ npm install
+    hello
 
 Start the development server
 
